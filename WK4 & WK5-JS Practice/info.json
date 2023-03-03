@@ -1,0 +1,16 @@
+{
+    "origin": "New York",
+    "destination": "London",
+    "duration": 415
+}
+{
+    "origin": {
+        "city": "New York",
+        "code": "JFK"
+    },
+    "destination": {
+        "city": "London",
+        "code": "LHR"
+    },
+    "duration": 415
+}
